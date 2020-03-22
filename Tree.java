@@ -9,13 +9,15 @@ System.out.println("This is my first message printed in Java");
 System.out.println("This project should show a planted tree...");
 
 
-System.out.println("  *  ");
-System.out.println(" *** ");
-System.out.println(" *** ");
-System.out.println("  *  ");
-System.out.println("  *  ");  
+System.out.println(" ***** ");
+System.out.println(" ***** ");
+System.out.println(" ***** ");
+System.out.println("   *   ");
+System.out.println("   *   ");  
+System.out.println(" ##### ");  
 
 }
+
 
 
 }

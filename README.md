@@ -1,2 +1,2 @@
 # Java-Tree
-Small intro to the Java language
+Small and basic intro to printing to the console with Java
