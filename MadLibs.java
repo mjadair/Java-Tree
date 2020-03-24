@@ -1,7 +1,5 @@
 public class MadLibs {
-  /*
-  This program generates a mad libbed story.
-  */
+ 
   	public static void main(String[] args){
       
       String name1 = "Michael";
