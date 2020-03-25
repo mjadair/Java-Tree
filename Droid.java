@@ -17,6 +17,14 @@ batteryLevel = 100;
  }
 
 
+ public void performTask(String task){
+
+    System.out.println(name + " is currently performing this task: " + task);
+
+    
+ }
+
+
 
   public static void main(String[] args) {
 
