@@ -20,8 +20,8 @@ batteryLevel = 100;
  public void performTask(String task){
 
     System.out.println(name + " is currently performing this task: " + task);
+    batteryLevel -= 10;
 
-    
  }
 
 
@@ -32,6 +32,10 @@ batteryLevel = 100;
 
 
     System.out.println(marvin);
+
+    System.out.println(marvin.batteryLevel);
+    marvin.performTask("self-isolating");
+    System.out.println(marvin.batteryLevel);
 
 
   }
