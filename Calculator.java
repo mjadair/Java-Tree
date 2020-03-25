@@ -21,6 +21,11 @@ public class Calculator {
     return a * b;
   }
 
+    // adds an division method that returns an int
+    public int divide(int a, int b) {
+      return a / b;
+    }
+
   public static void main(String[] args) {
 
   }
