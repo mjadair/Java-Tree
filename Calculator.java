@@ -35,6 +35,8 @@ public class Calculator {
 
     Calculator myCalculator = new Calculator();
 
+    myCalculator.add(5, 7);
+
   }
 
 }
