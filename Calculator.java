@@ -8,6 +8,7 @@ public class Calculator {
 
   //adds a method that returns an int
   public int add(int a, int b) {
+    return a + b;
 
   }
 
