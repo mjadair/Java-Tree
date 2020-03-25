@@ -6,14 +6,27 @@ public class Calculator {
 
   }
 
-  //adds a method that returns an int
+  //adds an addition method that returns an int
   public int add(int a, int b) {
     return a + b;
-
   }
 
+
+    //adds an subraction method that returns an int
+    public int subtract(int a, int b) {
+      return a - b;
+    }
+
   public static void main(String[] args) {
+
 
   }
 
 }
+
+
+
+// let a = 10
+// let b = 20
+
+// console.log(a + b)
