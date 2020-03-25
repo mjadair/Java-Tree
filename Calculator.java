@@ -26,7 +26,7 @@ public class Calculator {
     return a / b;
   }
 
-  // adds an modulo method that returns an int
+  // adds a modulo method that returns an int
   public int modulo(int a, int b) {
     return a % b;
   }
