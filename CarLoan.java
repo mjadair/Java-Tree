@@ -1,23 +1,19 @@
 public class CarLoan {
 
-  int carLoan;
-  int loanLength;
-  int interestRate;
-  int downPayment;
 
-
-
-  public CarLoan() {
-
-    carLoan = 1000;
-    loanLength = 3;
-    interestRate = 5;
-    downPayment = 2000;
-    
-     }
 
 	public static void main(String[] args) {
 
+    int carLoan = 1000;
+    int loanLength = 3;
+    int interestRate = 5;
+    int downPayment = 2000;
+
+
+
+if (loanLength <= 0 || interestRate <= 0) {
+  
+}
 	
 
 	}
