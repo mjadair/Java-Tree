@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-class Playlist {
+class DesertIslandDiscs {
 
   
   
@@ -9,8 +9,11 @@ class Playlist {
 
 
     ArrayList<String> 
-    desertIslandPlaylist = new 
+    desertIslandDiscs= new 
     ArrayList<String>();
+
+
+    desertIslandDiscs.add("Welcome to the Jungle by Guns N' Roses");
 
   }
   
