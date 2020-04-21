@@ -14,6 +14,9 @@ class DesertIslandDiscs {
 
 
     desertIslandDiscs.add("Welcome to the Jungle by Guns N' Roses");
+    desertIslandDiscs.add("Wagonwheel by Darius Rucker");
+
+    System.out.println(desertIslandDiscs);
 
   }
   
