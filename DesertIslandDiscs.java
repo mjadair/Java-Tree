@@ -17,6 +17,12 @@ class DesertIslandDiscs {
     desertIslandDiscs.add("Wagonwheel by Darius Rucker");
 
     System.out.println(desertIslandDiscs);
+    System.out.println(desertIslandDiscs.size());
+
+    desertIslandDiscs.remove("Wagonwheel by Darius Rucker");
+
+    System.out.println(desertIslandDiscs);
+    System.out.println(desertIslandDiscs.size());
 
   }
   
