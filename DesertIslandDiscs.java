@@ -25,7 +25,15 @@ class DesertIslandDiscs {
 
 
     int choiceOne = desertIslandDiscs.indexOf("Welcome to the Jungle by Guns N' Roses");
-    int choiceTwo = desertIslandDiscs.indexOF("Norgaard by The Vaccines");
+    int choiceTwo = desertIslandDiscs.indexOf("Norgaard by The Vaccines");
+
+    String tempA = "Give it up by KC and the Sunshine Band";
+
+
+    desertIslandDiscs.set(choiceOne, tempA);
+
+    System.out.println(desertIslandDiscs);
+
 
 
   }
