@@ -8,13 +8,12 @@ class DesertIslandDiscs {
     
 
 
-    ArrayList<String> 
-    desertIslandDiscs= new 
-    ArrayList<String>();
+    ArrayList<String> desertIslandDiscs= new ArrayList<String>();
 
 
     desertIslandDiscs.add("Welcome to the Jungle by Guns N' Roses");
     desertIslandDiscs.add("Wagonwheel by Darius Rucker");
+    desertIslandDiscs.add("Norgaard by The Vaccines");
 
     System.out.println(desertIslandDiscs);
     System.out.println(desertIslandDiscs.size());
@@ -23,6 +22,11 @@ class DesertIslandDiscs {
 
     System.out.println(desertIslandDiscs);
     System.out.println(desertIslandDiscs.size());
+
+
+    int choiceOne = desertIslandDiscs.indexOf("Welcome to the Jungle by Guns N' Roses");
+    int choiceTwo = desertIslandDiscs.indexOF("Norgaard by The Vaccines");
+
 
   }
   
